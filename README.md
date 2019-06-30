@@ -1,3 +1,4 @@
+# Diabetes-Predicition-Model
 In this project we are given a Diabetes Data set consisting of following features -
 
 ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
